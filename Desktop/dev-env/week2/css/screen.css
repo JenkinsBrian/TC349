@@ -1,0 +1,12 @@
+h1 {
+	font-family:Helvetica;
+	color:red;
+	border:2px solid #000;
+}
+h2{
+	color:red;
+}
+P {
+	display:block;
+	width:300px;
+}
